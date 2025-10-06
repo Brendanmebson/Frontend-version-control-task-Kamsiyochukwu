@@ -1,2 +1,1 @@
-# Frontend-version-control-task-Kamsiyochukwu
-Task 4 of FlexiSAF Deliverables
+# A demo project for mastering version control workflows as part of the FutureInterns frontend cohort.
